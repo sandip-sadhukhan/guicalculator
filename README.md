@@ -20,7 +20,7 @@ cd guicalculator
 python calculator.py
 ```
 ## Screenshot
-<img src = "guicalculator.png" alt="Screenshot" width = "60%">
+<img src = "guicalculator.png" alt="Screenshot" width = "20%">
 
 ## How to Use
 1. Use this for normal daily work.
